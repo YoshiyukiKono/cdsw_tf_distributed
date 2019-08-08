@@ -1,1 +1,5 @@
-# cdsw_tf_distributed
+# Reference
+
+tf-stanford-tutorials
+
+Tensorflow-Examples
